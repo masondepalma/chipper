@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 ```
 
 Go into system settings and allow for terminal or whereever you run the app to have access to accessibility settings. This is how the bot sends the message. 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/mdepalma15/chipper/blob/main/ss.png?raw=true)
 
 # Usage
 
